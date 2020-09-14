@@ -1,0 +1,22 @@
+1.  Wireframing - Draw the rough sketch of actual project
+2.  Functionality - 
+        * Sign In
+        * Sign Up
+        * Create a Channel Functionality
+        * Create a Send Message in a Channel
+        * Join a Channel
+        * Search for a Channel
+3.  Data required by the app
+        * users
+        * Channels
+        * Messages
+4. UI   
+        * Sidebar
+            * ListOfChannel
+            * ListOfDirectMessages
+        * MainContainer
+            * Header
+            * Message
+            * Create Message
+        *Sign In
+        *Sign Up
